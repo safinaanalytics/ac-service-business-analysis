@@ -49,7 +49,13 @@ The workflow covers data preparation, automated transformation, SQL-based analys
 
 ## Key Findings
 
-*Validated findings and their business implications will be documented here.*
+- **Revenue concentration:** AC installation generated approximately ₹2.72 million in revenue, making it the highest-revenue service in the analysed dataset.
+- **Customer retention:** Approximately 83.8% of identified customers were classified as one-time customers, highlighting an opportunity to investigate repeat bookings and customer retention.
+- **Booking cancellations:** Approximately 41.7% of bookings with a recorded outcome of either Done or Cancelled were cancelled, indicating an area for further operational investigation.
+
+### Data Limitations
+
+The available records were reported to cover approximately 70% of the business. Missing booking statuses and incomplete lead-source information also limit the conclusions that can be drawn. These findings describe the available dataset and should not be treated as a complete picture of overall business performance.
 
 ## Project Structure
 
