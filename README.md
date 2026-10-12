@@ -43,7 +43,9 @@ The workflow covers data preparation, automated transformation, SQL-based analys
 
 ## Dashboard Preview
 
-*Dashboard screenshots will be added here.*
+### Business Overview
+
+![AC Service Business Dashboard Overview](images/dashboard-overview.png)
 
 ## Key Findings
 
